@@ -6,8 +6,9 @@
 
 ## Download
 
-Linux 64-bit: `https://www.dropbox.com/s/0hg0bwg2wludagd/unicodeprint?dl=0`
-Windows 64-bit: `https://www.dropbox.com/s/8f4onur3q9crlea/unicodeprint.exe?dl=0`
+[Linux 64-bit](https://www.dropbox.com/s/0hg0bwg2wludagd/unicodeprint?dl=0)
+
+[Windows 64-bit](https://www.dropbox.com/s/8f4onur3q9crlea/unicodeprint.exe?dl=0)
 
 ## Example Usage
 
