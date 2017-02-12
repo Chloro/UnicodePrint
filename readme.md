@@ -17,3 +17,5 @@ Linux:
 
 Windows:
 `unicodeprint.exe 10 50` Will display all unicode characters from 10 to 50
+
+Please note that windows will automatically close the console when the program finishes.
