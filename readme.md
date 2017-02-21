@@ -13,6 +13,7 @@
 ## Example Usage
 
 Linux:
+`chmod 777 unicodeprint` to allow it to be run
 `./unicodeprint 100 1000` Will display all unicode characters from 100 to 1000
 
 Windows:
